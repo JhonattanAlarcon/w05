@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhona\\source\\repos\\WebApplication5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76920E7-5BDF-49F1-BB2C-1DAA45BD1014}|WebApplication5\\WebApplication5.csproj|c:\\users\\jhona\\source\\repos\\webapplication5\\webapplication5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C76920E7-5BDF-49F1-BB2C-1DAA45BD1014}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\WebApplication5\\WebApplication5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication5\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jhona\\source\\repos\\WebApplication5\\WebApplication5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication5\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T15:09:08.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
